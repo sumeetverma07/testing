@@ -1,2 +1,0 @@
-jlakfjoi
-testing this file for the gitignore file is working or not
